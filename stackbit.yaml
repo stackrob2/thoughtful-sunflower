@@ -2,7 +2,7 @@
 # needed to make your theme, or project, work with Stackbit. For more info about
 # stackbit.yaml configuration visit https://www.stackbit.com/docs/stackbit-yaml/
 stackbitVersion: ~0.3.0
-ssgName: gatsby
+ssgName: custom
 cmsName: contentful
 
 # The "buildCommand" and the "publishDir" properties are used to configure the
